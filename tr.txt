@@ -1,2 +1,9 @@
 jhjuh
 lkmkn
+
+
+  git config --global user.email "amacoraline@gmail.com"
+  git config --global user.name "Twinkle Kumari"
+
+
+uhbughbuhbh
